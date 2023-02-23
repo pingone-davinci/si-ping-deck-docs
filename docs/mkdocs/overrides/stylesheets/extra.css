@@ -126,7 +126,8 @@
 .md-header__button.md-logo,
 .md-header-nav__button.md-logo {
     /* Ping Identity logo */
-    background-image: url('https://www.pingidentity.com/content/dam/ping-6-2-assets/topnav-json-configs/Ping-Logo.svg');
+    /* background-image: url('https://www.pingidentity.com/content/dam/ping-6-2-assets/topnav-json-configs/Ping-Logo.svg'); */
+    background-image: url("https://cdn.glitch.global/90c2a317-76e7-4632-9e8c-f78184d43e80/si-logo.png?v=1675693630957");
     width: 40px;
     height: 40px;
     margin-left: 15px;
