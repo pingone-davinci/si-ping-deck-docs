@@ -54,11 +54,7 @@ plugins:
 nav:
   - Welcome:
       - Home: "./README.md"
-      - Get Started:
-          - Introduction: "get-started/introduction.md"
-          - Prerequisites: "get-started/prereqs.md"
-          - Environment Configuration: "get-started/configVars.md"
-          - Deploy Example Stack: "get-started/getStartedExample.md"
+      - Changelog: "CHANGELOG.md"
       - Deployment Examples:
           - Introduction: "deployment/introduction.md"
       - Support Policy: "home/supportPolicy.md"
