@@ -28,11 +28,11 @@
     /* Icon boxes shadow color */
     --md-hover-box-hover-shadow-color: #616161;
     /* Header background color */
-    --md-header-background-color: #3e4547;
+    --md-header-background-color: #2d2d2d;
     /* Header text color */
     --md-header-fg-color: white;
     /* Header menubar background color */
-    --md-header-menu-background-color: #3e4547;
+    --md-header-menu-background-color: #2d2d2d;
     /* Search result teaser color  */
     --search-result-teaser-color: white;
     /* Search result more summary color  */
@@ -75,11 +75,11 @@
     /* Icon boxes shadow color */
     --md-hover-box-hover-shadow-color: #616161;
     /* Header background color */
-    --md-header-background-color: #3e4547;
+    --md-header-background-color: #2d2d2d;
     /* Header text color */
     --md-header-fg-color: white;
     /* Header menubar background color */
-    --md-header-menu-background-color: #3e4547;
+    --md-header-menu-background-color: #2d2d2d;
     /* Search result teaser color  */
     --search-result-teaser-color: var(--md-default-fg-color--light);
     /* Search result more summary color  */
