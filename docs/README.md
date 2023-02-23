@@ -3,7 +3,7 @@ title: Welcome
 ---
 # Welcome
 
-Welcome message goes here
+Welcome to PingDeck.
 
 ## Benefits from this program
 
