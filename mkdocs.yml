@@ -1,0 +1,69 @@
+site_name: Ping Deck
+repo_name: pingone-davinci/si-ping-deck-docs
+repo_url: https://github.com/pingone-davinci/si-ping-deck-docs
+site_url: https://pingdeck.pingidentity.cloud/
+copyright: © Copyright 2023 Ping Identity
+extra_css:
+  - mkdocs/overrides/stylesheets/extra.css
+
+theme:
+  name: material
+  custom_dir: docs/mkdocs/overrides
+  favicon: images/favicon.png
+
+  features:
+    - navigation.tabs
+    - instant
+    - navigation.top
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      accent: blue
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      accent: blue
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+edit_uri: ""
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji
+  - admonition
+  - codehilite
+  - pymdownx.inlinehilite
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - meta
+  - toc:
+      # insert a blank space before the character
+      permalink: " ¶"
+
+plugins:
+  - search:
+        separator: '[\s\-\.]+'
+
+nav:
+  - Welcome:
+      - Home: "./README.md"
+      - Get Started:
+          - Introduction: "get-started/introduction.md"
+          - Prerequisites: "get-started/prereqs.md"
+          - Environment Configuration: "get-started/configVars.md"
+          - Deploy Example Stack: "get-started/getStartedExample.md"
+      - Deployment Examples:
+          - Introduction: "deployment/introduction.md"
+      - Support Policy: "home/supportPolicy.md"
+      - License: "home/license.md"
+      - Disclaimer: "home/disclaimer.md"
+  - Contact Us:
+    - Contributing: "contact-us/contributing.md"
+    - Community: "contact-us/community.md"
