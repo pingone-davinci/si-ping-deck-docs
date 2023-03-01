@@ -17,6 +17,7 @@
 
 | Date  | Status | Name | Description  |
 |---|:---:|---|---|
+| 2023-02-28 | New | Schema Annotation | Created standard input schema annotation for teleport functions |
 | 2023-02-23 | Updated | Annotation | Added 1px outline |
 | 2023-02-23 | Updated | Success Form | Updated to align with standard UX |
 | 2023-02-23 | Updated | Registration Form | Updated to align with standard UX |
@@ -28,4 +29,5 @@
 
 | Date  | Status | Name | Description  |
 |---|:---:|---|---|
+| 2023-02-24 | Updated | Field Focs  | Updated Javascript to wait for document ready event |
 | 2023-02-24 | Updated | Mask Email  | Javascript code to mask an email address |
