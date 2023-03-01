@@ -54,7 +54,7 @@ plugins:
 nav:
   - Welcome:
       - Home: "./README.md"
-      - Changelog: "./CHANGELOG.md"
+      - Changelog: "./changelog.md"
       - Deployment Examples:
           - Introduction: "deployment/introduction.md"
       - Support Policy: "home/supportPolicy.md"
