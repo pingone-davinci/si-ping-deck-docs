@@ -53,12 +53,12 @@ plugins:
 
 nav:
   - Welcome:
-      - Home: "./README.md"
-      - Contribute: "./contribute.md"
+      - Home: "./README.md"     
       - Recent Changes: "./changelog.md"
       - Support Policy: "home/supportPolicy.md"
       - License: "LICENSE.md"
       - Disclaimer: "home/disclaimer.md"
+  - Contribute: "./contribute.md"
   - Flow Demo Docs:
       - User Registration: "flows/user-registration.md"
  
