@@ -55,7 +55,7 @@ nav:
   - Welcome:
       - Home: "./README.md"
       - Contribute: ""./contribute.md"
-      - Changelog: "./changelog.md"
+      - Recent Changes: "./changelog.md"
       - Support Policy: "home/supportPolicy.md"
       - License: "LICENSE.md"
       - Disclaimer: "home/disclaimer.md"
