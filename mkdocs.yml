@@ -58,7 +58,8 @@ nav:
       - Support Policy: "home/supportPolicy.md"
       - License: "LICENSE.md"
       - Disclaimer: "home/disclaimer.md"
-  - Contribute: "contribute/contribute.md"
+  - Contribute: 
+      - Contribute: "contribute/contribute.md"
       - Exporting Snippets: "contribute/exporting-components.md"
   - Flow Docs:
       - User Registration: "flows/user-registration.md"
