@@ -20,6 +20,7 @@
 
 | Date  | Status | Name | Description  |
 |---|:---:|---|---|
+| 2023-03-01 | New | Demo Msg | HTTP node that can provide an overview of the demo including link to documentation |
 | 2023-03-01 | Updated | Instance Vars | Added flowDocsURL variable |
 | 2023-02-28 | New | Schema Annotation | Created standard input schema annotation for teleport functions |
 | 2023-02-23 | Updated | Annotation | Added 1px outline |
