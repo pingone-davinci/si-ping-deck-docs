@@ -19,6 +19,7 @@
 
 | Date  | Status | Name | Description  |
 |---|:---:|---|---|
+| 2023-03-01 | Updated | Instance Vars | Added flowDocsURL variable |
 | 2023-02-28 | New | Schema Annotation | Created standard input schema annotation for teleport functions |
 | 2023-02-23 | Updated | Annotation | Added 1px outline |
 | 2023-02-23 | Updated | Success Form | Updated to align with standard UX |
