@@ -7,6 +7,9 @@ Thanks for taking the time to help improve our tools!
 
 ## How Can I Contribute?
 
+### PingDeck Content
+To contribute to the PingDeck library of snippets, components and flows, use the [Google Form](https://forms.gle/EWKStU36w5g8FUkR7) to submit your content for review
+
 ### Reporting Bugs
 
 #### How Do I Submit a Bug Report?

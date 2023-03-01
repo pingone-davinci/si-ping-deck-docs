@@ -58,6 +58,4 @@ nav:
       - Support Policy: "home/supportPolicy.md"
       - License: "LICENSE.md"
       - Disclaimer: "home/disclaimer.md"
-  - Contact Us:
-    - Contributing: "contact-us/contributing.md"
-    - Community: "contact-us/community.md"
+  - Contributing: "contact-us/contributing.md"
