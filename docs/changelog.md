@@ -5,6 +5,7 @@
 
 | Date  | Status | Name | Description  |
 |---|:---:|---|---|
+| 2023-02-28 | Updated | Starter Flow  | Add common error teleport function |
 | 2023-02-24 | Updated | Starter Flow  | Add spacer node to initial flow |
 | 2023-02-23 | Updated | Password Reset | Update PingOne password reset function to standard UX |
 | 2023-02-23 | New | Starter Flow | Flow includes Ping CSS, instance variables, error handler |
@@ -29,5 +30,5 @@
 
 | Date  | Status | Name | Description  |
 |---|:---:|---|---|
-| 2023-02-24 | Updated | Field Focs  | Updated Javascript to wait for document ready event |
+| 2023-02-28 | Updated | Field Focs  | Updated Javascript to wait for document ready event |
 | 2023-02-24 | Updated | Mask Email  | Javascript code to mask an email address |
