@@ -55,8 +55,6 @@ nav:
   - Welcome:
       - Home: "./README.md"
       - Changelog: "./changelog.md"
-      - Deployment Examples:
-          - Introduction: "deployment/introduction.md"
       - Support Policy: "home/supportPolicy.md"
       - License: "LICENSE.md"
       - Disclaimer: "home/disclaimer.md"
