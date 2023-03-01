@@ -58,7 +58,7 @@ nav:
       - Deployment Examples:
           - Introduction: "deployment/introduction.md"
       - Support Policy: "home/supportPolicy.md"
-      - License: "home/LICENSE.md"
+      - License: "LICENSE.md"
       - Disclaimer: "home/disclaimer.md"
   - Contact Us:
     - Contributing: "contact-us/contributing.md"
