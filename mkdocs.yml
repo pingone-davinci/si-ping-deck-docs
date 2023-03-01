@@ -54,7 +54,7 @@ plugins:
 nav:
   - Welcome:
       - Home: "./README.md"
-      - Contribute: ""./contribute.md"
+      - Contribute: "./contribute.md"
       - Recent Changes: "./changelog.md"
       - Support Policy: "home/supportPolicy.md"
       - License: "LICENSE.md"
