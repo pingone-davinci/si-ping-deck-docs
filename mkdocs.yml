@@ -17,12 +17,12 @@ theme:
     - navigation.top
 
   palette:
-    # - media: "(prefers-color-scheme: light)"
-    #   accent: blue
-    #   scheme: default
-    #   toggle:
-    #     icon: material/weather-sunny
-    #     name: Switch to dark mode
+    - media: "(prefers-color-scheme: light)"
+      accent: blue
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       accent: blue
       scheme: slate
