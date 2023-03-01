@@ -60,6 +60,5 @@ nav:
       - Disclaimer: "home/disclaimer.md"
   - Contribute: "contribute/contribute.md"
       - Exporting Snippets: "contribute/exporting-components.md"
-  - Flow Demo Docs:
+  - Flow Docs:
       - User Registration: "flows/user-registration.md"
- 
