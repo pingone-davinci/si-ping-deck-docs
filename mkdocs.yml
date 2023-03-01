@@ -59,4 +59,6 @@ nav:
       - Support Policy: "home/supportPolicy.md"
       - License: "LICENSE.md"
       - Disclaimer: "home/disclaimer.md"
+  - Flow Demo Docs:
+      - User Registration: "flows/user-registration.md"
  
