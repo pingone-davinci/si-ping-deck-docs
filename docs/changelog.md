@@ -16,6 +16,12 @@
 | 2023-02-23 | Updated | Common Error | Added function title to snippet |
 | 2023-02-23 | New | Starter Flow | Flow includes Ping CSS, instance variables, error handler |
 
+## PingOne DaVinci Flow Blocks
+
+| Date  | Status | Name | Description  |
+|---|:---:|---|---|
+| 2023-03-02 | New | FIDO Device Check | Function that looks through device list for FIDO capable device  |
+
 ## PingOne DaVinci Components
 
 | Date  | Status | Name | Description  |
