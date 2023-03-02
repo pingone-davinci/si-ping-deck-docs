@@ -10,5 +10,5 @@ Click on one of your populations and copy the Id.
 ## Passing Data to a Subflow
 Using a flow connector, select the subflow you want to integrate 
   
-  * Once selected, the input schema variables will be display 
-  * Map the value to another node or hardcode your population Id
+  * Once selected, the input schema variables will be displayed
+  * Map the parameter from another node or hardcode your population Id
