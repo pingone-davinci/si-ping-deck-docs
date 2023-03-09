@@ -21,6 +21,7 @@
 
 | Date  | Status | Name | Description  |
 |---|:---:|---|---|
+| 2023-03-07 | New | Flow Config Check | Function node that can be set to dermine if required instance variable is set |
 | 2023-03-02 | New | FIDO Device Check | Function that looks through device list for FIDO capable device  |
 | 2023-03-01 | New | Common Error | Generic error function handler that accepts error code, message and action  |
 
