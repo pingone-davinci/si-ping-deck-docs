@@ -22,6 +22,7 @@
 | Date  | Status | Name | Description  |
 |---|:---:|---|---|
 | 2023-03-02 | New | FIDO Device Check | Function that looks through device list for FIDO capable device  |
+| 2023-03-01 | New | Common Error | Generic error function handler that accepts error code, message and action  |
 
 ## PingOne DaVinci Components
 
