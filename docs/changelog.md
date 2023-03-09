@@ -30,10 +30,10 @@
 | Date  | Status | Name | Description  |
 |---|:---:|---|---|
 | 2023-03-09 | New | Password Recovert Form | Form the allows input of existing and new password values |
-| 2023-03-09 | Update | Sign On | Now supports password toggling (masked/unmasked) |
+| 2023-03-09 | Updated | Sign On | Now supports password toggling (masked/unmasked) |
 | 2023-03-08 | New | Username Form | Username entry form |
 | 2023-03-01 | New | Magic Polling | Magic Link polling HTTP connector |
-| 2023-03-01 | updated | Sign On Form | Standardizing to **Sign On** |
+| 2023-03-01 | Updated | Sign On Form | Standardizing to **Sign On** |
 | 2023-03-01 | New | Demo Msg | HTTP node that can provide an overview of the demo including link to documentation |
 | 2023-03-01 | Updated | Instance Vars | Added flowDocsURL variable |
 | 2023-02-28 | New | Schema Annotation | Created standard input schema annotation for teleport functions |
@@ -50,7 +50,7 @@
 |---|:---:|---|---|
 | 2023-03-09 | Updated | Magic Polling, Sign On, Register | Updated UX to match DaVinci components |
 | 2023-03-08 | New | Pwd Field Toggle | Javascript to toggle masking of password field |
-| 2023-03-08 | Update | Logo HTML | Reference instance variable for image alt text |
+| 2023-03-08 | Updated | Logo HTML | Reference instance variable for image alt text |
 | 2023-03-01 | Updated | Magic Polling | Updated UX |
 | 2023-02-28 | Updated | Field Focs  | Updated Javascript to wait for document ready event |
 | 2023-02-24 | Updated | Mask Email  | Javascript code to mask an email address |
