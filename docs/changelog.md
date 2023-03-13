@@ -29,6 +29,7 @@
 
 | Date  | Status | Name | Description  |
 |---|:---:|---|---|
+| 2023-03-13 | New | Agrmt Form | Render PingOne agreement with function to detmine acceptance |
 | 2023-03-09 | New | Password Recovert Form | Form the allows input of existing and new password values |
 | 2023-03-09 | Updated | Sign On | Now supports password toggling (masked/unmasked) |
 | 2023-03-08 | New | Username Form | Username entry form |
